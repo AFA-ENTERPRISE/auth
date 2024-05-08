@@ -10,7 +10,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
   return (
     <GlobalContext>
       <Head>
-        <title>Boilerplate Next JS</title>
+        <title>Painful Sites</title>
         <meta charSet="UTF-8" key="charset" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" key="http-equiv" />
         <meta

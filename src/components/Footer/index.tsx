@@ -7,14 +7,9 @@ export default function Footer() {
       <Text data-cy="footer-text" mr={1} fontWeight="medium">
         Powered by
       </Text>
-      <Link
-        data-cy="author-link"
-        href="https://github.com/AstrOOnauta/"
-        target="_blank"
-        rel="noreferrer"
-      >
+      <Link data-cy="author-link" href="#" target="_blank" rel="noreferrer">
         <Text data-cy="author-name" color="orange.300" fontWeight="semibold">
-          AstrOOnauta
+          AFA
         </Text>
       </Link>
     </Flex>
